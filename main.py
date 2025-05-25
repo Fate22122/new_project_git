@@ -1,1 +1,1 @@
-browser.open('https://google.com')
+browwwwwser.open('https://google.com')
