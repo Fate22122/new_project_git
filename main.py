@@ -1,1 +1,1 @@
-browserrrrr.open('https://google.com')
+browserrrrr.opennnnnn('https://google.com')
