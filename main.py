@@ -1,1 +1,1 @@
-browserrrrr.opppppennnnnn('https://google.com')
+browwwwwserrrrr.opppppennnnnn('https://google.com')
